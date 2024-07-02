@@ -1,0 +1,17 @@
+[
+  {
+    "image": "https://st3.depositphotos.com/7865540/12756/i/450/depositphotos_127563976-stock-photo-notepad-with-text-in-frame.jpg",
+    "feature": "Pending Assignment",
+    "description": "Keep an eye on assignments in the queue for evaluation, providing easy access to details like assignment titles, submission dates, and user names awaiting assessment."
+  },
+  {
+    "image": "https://img.freepik.com/free-photo/3d-render-checklist-with-target-bullseye-arrow_107791-15674.jpg?w=826&t=st=1715688629~exp=1715689229~hmac=e58c0c446a6a1bd2aae2c5abc2a6d9deaba5bfcaa210f731009f577c2c67eb8f",
+    "feature": "Create Assignment",
+    "description": "Empower users with the ability to generate diverse tasks tailored to specific requirements, including assignment titles, detailed descriptions, marking criteria, and due dates, ensuring instructors can craft engaging and challenging assignments."
+  },
+  {
+    "image": "https://www.shutterstock.com/image-photo/sticky-note-handwritten-text-submit-260nw-2058499529.jpg",
+    "feature": "Submit Assignment",
+    "description": "Simplify the submission process by allowing users to effortlessly upload completed assignments, providing options to attach necessary files or links securely. This feature ensures that submitted work reaches instructors promptly for evaluation, streamlining the assessment workflow for both students and educators."
+  }
+]
